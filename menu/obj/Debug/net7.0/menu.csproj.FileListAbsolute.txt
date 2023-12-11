@@ -1,0 +1,14 @@
+C:\Users\lurru\source\repos\menu\bin\Debug\net7.0\menu.exe
+C:\Users\lurru\source\repos\menu\bin\Debug\net7.0\menu.deps.json
+C:\Users\lurru\source\repos\menu\bin\Debug\net7.0\menu.runtimeconfig.json
+C:\Users\lurru\source\repos\menu\bin\Debug\net7.0\menu.dll
+C:\Users\lurru\source\repos\menu\bin\Debug\net7.0\menu.pdb
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.AssemblyInfoInputs.cache
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.AssemblyInfo.cs
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.csproj.CoreCompileInputs.cache
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.dll
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\refint\menu.dll
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.pdb
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\menu.genruntimeconfig.cache
+C:\Users\lurru\source\repos\menu\obj\Debug\net7.0\ref\menu.dll
