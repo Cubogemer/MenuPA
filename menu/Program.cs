@@ -7,15 +7,20 @@ namespace menu
     {
         static void Main(string[] args)
         {
+            //Declaración de variables
             int opcion;
             bool endProgram = true;
             string line;
 
+            //Cambio el color y el titulo de la consola
             Console.Title = "Menu";
-            Console.BackgroundColor = ConsoleColor.DarkMagenta;
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.BackgroundColor = ConsoleColor.Black;
+            Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.Clear();
 
+            Console.CursorVisible = false; //Hace invisible el cursor de la consola
+
+            //Escribe el nombre del programa (Hecho en figlet) y la licencia proporcionada por Github
             try
             {
                 StreamReader sr = new StreamReader("licensia.txt");
@@ -24,6 +29,7 @@ namespace menu
                 {
                     Console.WriteLine(line);
                     line = sr.ReadLine();
+                    Thread.Sleep(10);
                 }
                 sr.Close();
                 
@@ -36,7 +42,7 @@ namespace menu
             }
             finally
             {
-                Console.ReadKey();
+                Thread.Sleep(600);
                 Console.Clear();
             }
 
@@ -44,39 +50,41 @@ namespace menu
             {
                 try
                 {
+                    //Muestra el menu, los "Sleep" son mera estetica
+                    Console.Title = "Menu";
+                    Thread.Sleep(25);
                     Console.WriteLine("Escoge una opción");
-                    Console.WriteLine("1: Investigacion general");
-                    Console.WriteLine("2: Opcion 2");
-                    Console.WriteLine("3: Salir del programa");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       1: Investigacion general");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       2: Opcion 2");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       3: Salir del programa");
                     opcion = int.Parse(Console.ReadLine());
 
+                    //Las distintas opciones
                     switch (opcion)
                     {
                         case 1:
+                            Console.Title = "Investigación general";
                             Console.Clear ();
                             try
                             {
-                                StreamReader sr = new StreamReader("texto_general.txt");
-                                line = sr.ReadLine();
-                                while (line != null)
-                                {
-                                    Console.WriteLine(line);
-                                    line = sr.ReadLine();
-                                }
-                                sr.Close();
-                                Console.ReadLine();
+                                line = File.ReadAllText("texto_general.txt");
+                                Console.WriteLine(line);
                             }
                             catch (Exception e)
                             {
                                 Console.WriteLine("Exeption: " + e.Message);
-                                Thread.Sleep(350);
+                                Console.ReadKey();
                                 Console.Clear() ;
                             }
                             finally
                             {
+                                Console.ReadKey();
                                 Console.Clear();
                             }
-                            Console.Clear();
+                            
                             break;
 
                         case 2:
@@ -93,17 +101,23 @@ namespace menu
                             break;
 
                         default:
+                            Console.Clear();
                             Console.WriteLine("No escribiste un numero dentro del rango");
+                            Thread.Sleep(500);
+                            Console.Clear();
                             break;
                     }
                 }
                 catch (FormatException e)
                 {
+                    Console.Clear();
                     Console.WriteLine("Exeption: " + e.Message);
+                    Thread.Sleep(300);
+                    Console.Clear();
                 }
-               
 
-                
+
+
             }
 
 
