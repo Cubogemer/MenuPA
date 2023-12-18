@@ -1,0 +1,483 @@
+		Instituto Politecnico Nacional
+	Centro de Estudios Cientificos y Tecnologicos No. 13
+              	   "Ricardo Flores Magon"
+
+Grupo: 3IM12
+Nivel: Tercer Semestre 
+Especialidad: Informatica 
+Coordinadora: Elizabeth Eugenia Osorio Villaseñor
+Unidad de Aprendizaje: Quimica I
+Equipo: 8
+Integrantes:
+	-Leyva Marin Sibela Esther
+	-Pérez Morales Luis Raúl
+Fecha de elaboración: 10 de Diciembre, 2023 
+Ciclo:2024/1
+
+
+Introducción:  
+Para adentrarnos en el amplio tema de la ciencia y tecnología en el 
+contexto sociocultural mexicano, es imprescindible destacar la 
+creciente intersección entre el conocimiento académico, innovación y 
+evolución tecnológica constante. En este contexto profundizaremos en 
+un análisis detallado, explorando la aportación significativa que la 
+investigación académica ha tenido en el desarrollo científico y 
+tecnológico del país. Tomando en cuenta datos estadísticos 
+reveladores para delinear el panorama dinámico que caracteriza a esta 
+relación, desentrañando los logros y desafíos que definen aquella 
+trayectoria mexicana en este campo. 
+La intersección entre la ciencia y la tecnología en México se han 
+convertido en un campo amplio que va marcando el ritmo y desarrollo, 
+así como la innovación de este mismo. Centrándose y profundizando 
+en el ámbito académico es notorio destacar que diversas instituciones 
+mexicanas ya sea políticas, económicas y sociales han desempeñado 
+un papel fundamental para el impulso de investigaciones en pro de la 
+evolución tecnológica y científica. 
+Este ensayo busca explorar a fondo la aportación de la ciencia y la 
+tecnología destacando la sumatoria al ámbito académico, igualmente 
+se explicará la relación entre la materia de Entorno Socioeconómico de 
+México en el contexto de Proyecto Aula. 
+Para lograr alcanzar el entendimiento óptimo de la relación entre la 
+asignatura de Entorno socioeconómico y Proyecto aula, se debe 
+comprender a que se refieren estos mismos. 
+La asignatura de Entorno socioeconómico de México, impartida a nivel 
+medio superior en el Instituto Politécnico Nacional, tiene la 
+competencia general de “Argumentar las condiciones sociales, 
+económicas y políticas de México, en el contexto nacional e 
+internacional, vinculando su contexto personal y social”1. Incluyendo de 
+esa manera, las competencias particulares de:  
+1. “Emite juicios de valor sobre los diferentes modos de producción y 
+los procesos económicos, tomando como base la crisis económica 
+de 1929 al término de la guerra fría.” 
+2. “Reseña las variables que repercuten en el desarrollo y 
+subdesarrollo de su entorno personal y social.” 
+3. “Sustenta el impacto de la globalización en los aspectos 
+económicos, políticos y sociales actuales, que son de interés y 
+relevancia para la población mexicana.” 
+Mientras tanto, Proyecto Aula se refiere a una propuesta metodológica 
+que permite incorporar las competencias adquiridas por los alumnos 
+en diferentes Unidades de Aprendizaje para dar solución a un 
+problema mediante el método de proyectos en diferentes semestres; 
+siendo así crucial el aporte de la asignatura para el producto final de 
+1de México, E. S. (s/f). UNIDAD DE APRENDIZAJE: Ipn.mx. Recuperado el 25 de noviembre de 2023, de 
+https://www.ipn.mx/assets/files/cecyt11/docs/Guias/UAHumanisticas/Entorno-Socioeconomico/Entorno
+Socioeconomico.pdf 
+Proyecto Aula, ya que se le adjudica una ponderación significativa para 
+la evaluación de las asignaturas y el propio proyecto. 
+Desarrollo: 
+Económico: 
+El vertiginoso desarrollo de las tecnologías de la información y la 
+comunicación (TIC) en las últimas décadas ha impactado 
+prácticamente todas las esferas de actividad humana, y la educación 
+no ha sido la excepción. En particular, la irrupción de internet y los 
+dispositivos móviles inteligentes como computadoras portátiles, 
+tabletas y teléfonos inteligentes han abierto amplias oportunidades 
+para transformar los modos tradicionales de enseñanza y aprendizaje. 
+Si bien mucha atención se ha puesto sobre los aspectos pedagógicos 
+de esta transformación educativa digital, resulta igualmente crucial 
+analizar sus implicaciones económicas tanto micro como macro. 
+El propósito del presente estudio es precisamente investigar y 
+esclarecer los principales efectos del avance tecnológico-educativo en 
+términos de costos, inversiones requeridas, fuentes de financiamiento, 
+retornos esperados, así como su impacto en la productividad, 
+competitividad y crecimiento económico agregado. Mediante el análisis 
+de datos estadísticos, revisión de literatura especializada y entrevistas 
+a actores clave, la investigación busca dimensionar los requerimientos 
+económicos para implementar exitosamente modelos educativos 
+apoyados en TIC, así como cuantificar sus beneficios tanto privados 
+como sociales. Los hallazgos servirán para orientar la asignación de 
+recursos y el diseño de políticas públicas que fomenten la integración 
+de tecnologías digitales al sistema educativo de forma sostenible. 
+Dentro del ámbito económico es indispensable el mencionar 
+dispositivos que han sido de vital importancia no solo para el ámbito 
+académico sino también social y personal, uno de los mercados más 
+grandes y extensos que podemos encontrar: 
+Dispositivos Móviles en la Educación 
+Compra de Dispositivos Móviles 
+Los dispositivos móviles, con más de 5 mil millones de usuarios diarios, 
+han trascendido su función inicial para convertirse en una herramienta 
+esencial en la educación. En el ámbito educativo, estos dispositivos 
+ofrecen una amplia gama de aplicaciones y plataformas para fomentar 
+un aprendizaje interactivo y dinámico (Amazon Ads, 2023).  
+Generación de Empleos por las Empresas 
+El desarrollo tecnológico ha impactado el empleo, con el 63% del 
+empleo total y el 64.5% del empleo manufacturero en México en riesgo 
+de automatización. 
+Sin embargo, este cambio tecnológico también genera nuevas 
+oportunidades de empleo, lo que crea un delicado equilibrio entre 
+pérdida y creación de puestos de trabajo (SciELO, 2023).  
+Necesidades que Cubren los Dispositivos Móviles  
+Desde la comunicación hasta el aprendizaje, los dispositivos móviles 
+satisfacen diversas necesidades. Usuarios de dispositivos móviles 
+utilizan sus dispositivos para actividades como compras, transmisión 
+de videos, escucha de podcasts y juegos, destacando su versatilidad 
+en el entorno educativo (Xataka, 2023).  
+Renovación de los Dispositivos Móviles  
+La era digital ha traído consigo la renovación constante de los 
+dispositivos móviles. Programas como el “Programa Reestrena” de 
+Vodafone permiten a los usuarios actualizar sus dispositivos de manera 
+conveniente, impulsando la demanda y contribuyendo a ciclos más 
+acelerados de actualización (Vodafone, 2023).  
+Publicidad en Dispositivos Móviles  
+La publicidad en dispositivos móviles se ha convertido en una 
+estrategia crucial para las marcas, alcanzando a audiencias 
+directamente desde sus smartphones y tabletas. En 2021, el gasto en 
+publicidad en dispositivos móviles alcanzó la impresionante cifra de 
+288 mil millones de dólares a nivel mundial. (Amazon Ads, 2023).  
+Costos de Dispositivos Móviles 
+Los costos de dispositivos móviles varían significativamente según la 
+marca, características y lugar de compra. Desde dispositivos de gama 
+alta hasta opciones más accesibles, la diversidad de precios permite a 
+diferentes segmentos de la población acceder a tecnología educativa 
+(Xataka, 2023). 
+Cursos en Línea  
+La flexibilidad y accesibilidad de los cursos en línea han ganado 
+popularidad, y los dispositivos móviles desempeñan un papel crucial en 
+esta tendencia al permitir a los estudiantes acceder a materiales 
+educativos en cualquier momento y lugar (SciELO, 2023).  
+Inversión en el Desarrollo de Tecnologías  
+La inversión en el desarrollo tecnológico es un motor fundamental para 
+la innovación y el crecimiento económico. Un ejemplo notable es el 
+gobierno del presidente Andrés Manuel López Obrador, que destinó 
+3,380 millones de pesos a tecnología en 2022, destacando la 
+importancia estratégica de esta inversión (El Economista, 2023).  
+Exportaciones e Importaciones de Tecnologías  
+La globalización tecnológica ha facilitado el intercambio de tecnologías 
+entre países, permitiendo a empresas acceder a mercados 
+internacionales y a consumidores disfrutar de una mayor variedad de 
+productos y servicios educativos (Thomson Reuters, 2023).  
+Incremento de la Globalización 
+El avance tecnológico ha sido un impulsor fundamental del incremento 
+de la globalización. Este fenómeno permite interacciones económicas, 
+sociales y culturales entre personas de todo el mundo, posibilitadas en 
+gran medida por las redes sociales y otras plataformas tecnológicas 
+(Hubspot, 2023).  
+Mercado Abierto  
+La ausencia de aranceles, subsidios y otras regulaciones en el 
+mercado abierto favorece la competencia entre empresas y beneficia a 
+los consumidores con una mayor diversidad de productos y servicios 
+educativos (Economipedia, 2023). 
+Rasgos de las Diferencias entre Grandes Empresas de Alta      
+Tecnología y Nuevas Empresas 
+Capacidades Innovadoras  
+Poseen mayores recursos financieros, tecnológicos y productivos, así 
+como un acceso más fácil a las redes de distribución. Construyen sus 
+capacidades innovadoras a través de vínculos externos, especialmente 
+con proveedores y clientes, siendo empresas expertas en campos 
+altamente especializados.  
+Estrategias de Mercado  
+Es más probable que tengan el poder de mercado, lo que les ayuda a 
+apropiarse del rendimiento económico de la actividad innovadora. 
+Buscan ser los primeros en el mercado en lugar de proteger sus 
+innovaciones, ya que suelen carecer de medios legales y directivos 
+para 
+mantener especialistas en derechos de propiedades 
+intelectuales.  
+Estructura Interna  
+Generalmente están más capacitadas para reducir el riesgo de la I+D 
+mediante la diversificación entre distintos proyectos. Se especializan 
+en actividades que no requieren un gasto en I+D grande, 
+beneficiándose de un mayor dinamismo empresarial, una mayor 
+flexibilidad interna y capacidad de respuesta ante circunstancias 
+cambiantes.”  
+Innovación Educativa gracias a la Tecnología  
+La tecnología ha revolucionado la educación, dando lugar a programas 
+como el ‘personalized learning’ o ‘aprendizaje personalizado’. 
+Entidades como la Bill & Melinda Gates Foundation respaldan esta 
+iniciativa, buscan que los estudiantes aprendan de manera autónoma y 
+personalizada mediante el uso de dispositivos electrónicos como 
+computadoras, laptops, teléfonos celulares y nuevos softwares, 
+permitiéndoles medir su progreso de manera eficaz. Diversos 
+programas comparten este objetivo de adaptar a los estudiantes a las 
+nuevas tecnologías.  
+Impacto de la Compra de Computadoras y el Gasto en Servicios de 
+Internet en la Educación  
+El uso de computadoras y servicios de internet ha tenido un impacto 
+significativo en la vida y en la educación, generando repercusiones 
+económicas en la sociedad. El aumento de la demanda de dispositivos 
+ha elevado sus precios, dificultando que algunas personas adquieran 
+un dispositivo apto para su uso académico. Además, los costos de los 
+servicios de internet, esenciales en la educación del siglo XXI, aún no 
+han sido objeto de estudios específicos.  
+La falta de acceso a Internet puede limitar la disponibilidad de recursos 
+educativos y la participación en actividades educativas en línea, lo que 
+potencialmente afecta negativamente el aprendizaje de los estudiantes. 
+Es crucial abordar estos desafíos para garantizar un acceso equitativo 
+a la tecnología y los recursos educativos. 
+Influencia de la red Wifi en la economía 
+El wifi es una opción de uso que se presenta en los espacios de 
+conectividad públicos, en la que se permite a los usuarios conectarse 
+de forma fácil, rápida y segura desde cualquier tipo de establecimiento 
+por medio de sus cuentas de redes sociales, en medio de este 
+proceso, los empresarios se benefician al recoger datos tan 
+importantes.  
+El Internet permite la participación de muchas empresas pequeñas en 
+el comercio mundial, asimismo, apoya a que el capital existente sea 
+más productivo, lo que aumenta la eficiencia y la innovación. “Al igual 
+que la energía o el transporte, Internet se ha convertido en una parte 
+esencial de la infraestructura de los países, y en un factor de 
+producción en casi cualquier actividad de toda economía moderna”, 
+dice el estudio Dividendos digitales panorama general. 
+Expansión del Comercio  
+Facilita 
+la 
+exportación de productos a nuevos mercados, 
+especialmente para empresas más jóvenes. El aumento del uso de 
+internet en un país exportador se relaciona directamente con un 
+incremento en el número de productos comerciados entre países.  
+Mejora de la Utilización del Capital  
+Reduce costos y aumenta la eficiencia en diversos sectores 
+económicos. La información precisa optimiza la gestión del inventario, 
+la cadena de suministro y reduce el tiempo de inactividad de bienes de 
+capital.  
+Fomento de la Competencia 
+Los servicios basados en Internet, al reducir los costos marginales de 
+transacción, se observa una competencia intensa. Los sitios web de 
+comparación de precios, por ejemplo, deberían reducir los precios, 
+pero la discriminación de precios persiste debido a estrategias 
+empresariales sofisticadas.  
+Ingreso en el Mercado  
+Las empresas en línea pueden iniciar y crecer rápidamente con poca 
+inversión inicial. La competencia entre empresas en línea y 
+tradicionales beneficia a los consumidores, ya que genera 
+innovaciones y mejora la eficiencia, especialmente cuando los 
+mercados tradicionales están distorsionados. 
+Político: 
+Los gobiernos emplean las tecnologías para perfeccionar la eficiencia, 
+transparencia y prestación de servicios a los ciudadanos, como 
+tecnologías de reconocimiento facial en cuestión de reforzar la 
+seguridad, mejorar los procesos de control de pasaportes en 
+aeropuertos, entre otros. Manejan las redes sociales junto con otras 
+plataformas en línea para instaurar canales de comunicación con los 
+ciudadanos, logrando promover la participación ciudadana y recopilar 
+información útil para la toma de decisiones.  
+Existen diversas normas internacionales relacionadas con el uso de las 
+tecnologías y protección de datos, como lo son: 
+Normas de la Organización Internacional de Normalización (ISO): 
+Desarrolla normas internacionales en diversos campos, incluyendo 
+tecnologías de la información y la comunicación. 
+Normas de la Unión Internacional de Telecomunicaciones (UIT): 
+Desarrolla normas y recomendaciones en el campo de las 
+telecomunicaciones; abarcan una amplia gama de tecnologías, como 
+redes de comunicación, radiocomunicaciones y servicios de 
+telecomunicaciones. 
+Normas de la Organización de las Naciones Unidas (ONU): Ha 
+establecido normas y principios para guiar el uso de tecnologías en 
+línea y abordar los desafíos relacionados con la privacidad, la 
+seguridad y la igualdad. 
+Tratados políticos  
+El Acuerdo sobre Tecnología de la Información (ATI) original, alcanzado 
+el 13 de diciembre de 1996 con la adopción de una “Declaración 
+Ministerial sobre el Comercio de Productos de Tecnología de la 
+Información” en la primera Conferencia Ministerial de la OMC. 
+Abarca un gran número de productos de alta tecnología, incluidos 
+ordenadores (computadoras), equipos de telecomunicaciones, 
+semiconductores, 
+equipos 
+de fabricación y prueba de 
+semiconductores, soportes lógicos, instrumentos científicos, y casi 
+todas las partes y accesorios de estos productos.  
+Siendo exclusivamente un mecanismo de reducciones arancelarias, 
+donde todos sus participantes deben respetar dos principios básicos: 
+❖ Todos ellos deben reducirse a un nivel arancelario nulo 
+❖ Todos los demás derechos de aduana y cargas deben 
+consolidarse a nivel cero 
+Gracias a que los productos abarcados por el ATI pueden circular 
+libremente a través de las fronteras sin pagar derechos de importación, 
+la industria de la tecnología de la información ha podido especializarse 
+y beneficiarse de grandes economías de escala. Esta es una de las 
+razones de la proliferación de redes de producción y cadenas de 
+aprovisionamiento mundiales en el sector, que han traído una mejora 
+de la productividad y la eficiencia en la industria.2 
+Uso de las Tecnologías en el ámbito político en México 
+La tecnología educativa tiene una relación importante con las normas, 
+leyes e instituciones en el ámbito político. Estas regulaciones y marcos 
+legales establecen las pautas y directrices para el uso de la tecnología 
+en el contexto educativo. Presentándose algunas normas y leyes 
+relevantes relacionadas con la tecnología educativa: 
+o La Constitución Política de los Estados Unidos Mexicanos establece 
+las normas aplicables a los planes y programas de estudio en 
+instituciones educativas particulares.  
+o La Ley General de Educación y la Ley General de Educación 
+Superior son dos leyes importantes que regulan el sistema 
+educativo en México, ya que establecen los principios y objetivos 
+de la educación, así como las responsabilidades de las instituciones 
+educativas y gobiernos en relación con la educación. 3 
+2Ley General de Educación. (s/f). Gob.mx. Recuperado el 23 de noviembre de 2023, de 
+http://cgservicios.df.gob.mx/prontuario/vigente/5519.htm 
+3Ley General de Educacin. (s/f). Gob.mx. Recuperado el 23 de noviembre de 2023, de 
+http://cgservicios.df.gob.mx/prontuario/vigente/5519.htm 
+o La Ley General de la Infraestructura Física Educativa también es 
+relevante, ya que establece las normas para la construcción y 
+mantenimiento de las instalaciones educativas. 4 
+o Instituciones y políticas educativas: 
+Las instituciones educativas, tanto públicas como privadas, deben 
+cumplir con las normas y regulaciones establecidas por las 
+autoridades educativas competentes. 
+o El Ministerio de Educación Nacional y la Junta Nacional de 
+Educación desempeñan un papel importante en la regulación y 
+acreditación de la calidad de la educación formal y no formal en 
+México. 5 
+o Existen organismos internacionales que también influyen en las 
+políticas educativas en México, promoviendo la cooperación e 
+intercambio de conocimientos en el ámbito educativo. 
+Relación política: 
+La tecnología educativa puede ser influenciada por decisiones 
+políticas y agendas gubernamentales; ya que los gobiernos pueden 
+establecer políticas y programas para fomentar el uso de la tecnología 
+en la educación.6 
+Principalmente comienza una transformación educativa  
+4Ley General de Educacin. (s/f). Gob.mx. Recuperado el 23 de noviembre de 2023, de  
+http://cgservicios.df.gob.mx/prontuario/vigente/5519.htm 
+5S/f). Rieoei.org. . Recuperado el 23 de noviembre de 2023, de 
+https://rieoei.org/historico/oeivirt/rie04a06.htm 
+6Operativa, I. (s/f). ACUERDO EDUCATIVO NACIONAL. Gob.mx. Recuperado el 23 de noviembre de 2023, de 
+https://infosen.senado.gob.mx/sgsp/gaceta/64/2/2019-11-14
+1/assets/documentos/Estrategia_Educacion_Inclusiva.pdf 
+en la década de los 90, los países desarrollados fortalecieron su gasto 
+para educación ante los cambios tecnológicos, mientras que los que se 
+encontraban en desarrollo priorizaron la mejora educativa brindada por 
+el estado. En México los primeros intereses tecnológicos no pasaron 
+de un enfoque material y económico; durante el sexenio del presidente 
+Calderón se reconoció al sindicato de trabajadores del estado para 
+intervenir en la creación de propuestas en el programa de educación 
+básica, aunque durante este gobierno solamente se fortaleció las 
+instituciones educativas implementando programas de mejoramiento 
+pedagógico. 
+Actualmente, los cambios están basados en el aprovechamiento de las 
+tecnologías expuestas en la sociedad, donde se observa una falta 
+significativa de capacidad para conseguir un interés hacia estos 
+métodos de aprendizaje, sin embargo, el estado no se ha enfocado 
+debidamente a la creación de programas de apoyo, capacitación y 
+mejoramiento de los docentes en el ámbito académico. 
+Leyes 
+En recientes años el uso de los tics se ha fomentado significativamente 
+debido a los años de pandemia, experimentados de 2020 a 2022.  
+Su uso como todo, ha tenido que ser dirigido e implementado, se 
+tienen ejemplos como el artículo 9 de la Ley General de Educación el 
+cual dice que se deben fomentar diversas opciones educativas, 
+(abierta y a distancia), mediante el aprovechamiento de las plataformas 
+digitales, televisión educativa y tecnologías de la información, 
+comunicación, conocimiento y aprendizaje digital. 
+Las leyes políticas que rigen las tecnologías en la educación: 
+▪ Protección de Datos: Regulan la recopilación, almacenamiento y 
+uso de datos de estudiante, garantizando la privacidad y 
+seguridad de la información. 
+▪ Acceso Digital y Equidad: Políticas destinadas a garantizar el 
+acceso equitativo a la tecnología educativa para todos los 
+estudiantes, independientemente de su ubicación o situación 
+socioeconómica.  
+▪ Seguridad en Línea: Normativas enfocadas a la protección de 
+los estudiantes de riesgos en línea, como el ciberacoso y 
+exposición a contenido inapropiado.  
+▪ Propiedad Intelectual: Legislación que trata cuestiones de 
+derechos de autor y propiedad intelectual en el uso de recursos 
+digitales en entornos educativos. 
+▪ Evaluación de Tecnología Educativa: Regulaciones establecidas 
+con estándares y procesos para evaluar la efectividad e impacto 
+de las tecnologías utilizadas en la educación.  
+▪ Formación Docente en Tecnología: Políticas que respaldan la 
+formación y desarrollo profesional de los educadores en el uso 
+efectivo de la tecnología en el aula.  
+▪ Infraestructura Tecnológica en las Escuelas: Normativas 
+acordando la implementación y mantenimiento de la 
+infraestructura tecnológica en las instituciones educativas.  
+▪ Normativas de Contenido Digital: Directrices sobre el tipo de 
+contenido digital permitido en el entorno educativo, asegurando 
+su pertinencia y adecuación para los estudiantes. 
+Programas ofrecidos por el gobierno: 
+La reforma a la Constitución Política de Estados Unidos del 15 de mayo 
+de 2019 cambió el artículo 3, incluyendo el derecho a disfrutar de los 
+beneficios del desarrollo científico e innovación tecnológica. 
+Asimismo, la fracción XXIX-F del artículo 73 reafirma el compromiso 
+del Estado de México sobre apoyar la investigación humanística, 
+científica y tecnológica. 
+En tanto, el Consejo Nacional de Ciencia y Tecnología (Conacyt), 
+que por ley tiene como mandato un órgano asesor especializado para 
+articular las políticas públicas del Gobierno Federal, promoción de la 
+investigación humanística, ciencia y tecnología, el desarrollo y 
+modernización tecnológica del país, además de la innovación, tiene la 
+tarea de coordinar la realización de la reforma constitucional. 
+El Centro de Investigación e Innovación en Tecnologías de la 
+Información y las Comunicaciones (INFOTEC) es un Fideicomiso 
+Público del Gobierno Federal constituido mediante el contrato número 
+064-1 del 30 de diciembre de 1974, por el Consejo Nacional de 
+Ciencia y Tecnología, considera una unidad administrativa pública 
+paraestatal en los términos del artículo 90 de la Constitución Política de 
+los Estados Unidos Mexicanos, 1, 3, fracciones III, 9 y 47 de la Ley 
+Orgánica de la Administración Pública. Ley Federal y Ley Federal 1° y 
+40° Ley de Entidades Paraestatales. 
+Buscando alcanzar sus objetivos realizando acciones de acuerdo con 
+los mismos y estrategias del Programa Especial de Ciencia, Tecnología 
+e Innovación 2021-2024 (PECiTI 2021-2024), según lo dispuesto en la 
+Ley de Ciencia y Tecnología y, otras disposiciones que resulten 
+aplicables según su tipo y finalidad. 
+Social: 
+La presencia de la ciencia y la tecnología en la sociedad moderna es 
+innegable. Su impacto se extiende más allá de los laboratorios y las 
+fábricas, permeando cada aspecto de nuestra vida cotidiana. Desde la 
+manera en que nos comunicamos hasta cómo trabajamos y nos 
+relacionamos, la ciencia y la tecnología han sido motores 
+fundamentales en la evolución de la civilización. 
+La globalización ha desempeñado un papel clave en este escenario. Ha 
+facilitado la difusión de conocimientos y tecnología, impulsando un 
+intercambio de información sin precedentes a nivel global. Esta 
+interconexión ha permitido que los avances tecnológicos sean 
+accesibles en todo el mundo, acelerando el desarrollo y generando un 
+ambiente altamente competitivo donde la innovación es clave para la 
+supervivencia económica. 
+Los impactos de la ciencia y la tecnología en la calidad de vida son 
+evidentes. Desde la medicina hasta la educación y el entretenimiento, 
+estas disciplinas han mejorado notablemente nuestra forma de vivir y 
+experimentar el mundo. Sin embargo, junto con estos beneficios, 
+surgen desafíos considerables. 
+La brecha tecnológica entre países desarrollados y en desarrollo es 
+uno de los retos más prominentes. A pesar de los avances, muchas 
+regiones aún carecen de acceso a tecnologías básicas, lo que amplía la 
+disparidad económica y social. 
+Además, la rápida evolución tecnológica plantea cuestiones éticas 
+complejas. El surgimiento de la inteligencia artificial, la biotecnología y 
+la robótica, entre otras áreas, plantea interrogantes sobre los límites 
+éticos y morales en su aplicación. 
+En el ámbito laboral, si bien la tecnología ha creado nuevos empleos, 
+también ha provocado la obsolescencia de ciertas ocupaciones debido 
+a la automatización. Esto conlleva la necesidad de reentrenar y adaptar 
+a los trabajadores a nuevas habilidades, lo que representa un desafío 
+significativo para la sociedad en su conjunto. 
+A pesar de los retos, el potencial de la ciencia y la tecnología para 
+mejorar nuestras vidas sigue siendo enormemente prometedor. Sin 
+embargo, su uso responsable y equitativo es esencial para garantizar 
+que estos avances beneficien a toda la humanidad y no aumenten las 
+disparidades existentes. 
+En resumen, la ciencia y la tecnología han alterado profundamente la 
+forma en que vivimos y nos relacionamos, proporcionando beneficios 
+invaluables, pero también planteando dilemas éticos y sociales 
+cruciales que deben abordarse con sabiduría y responsabilidad 
+colectiva para un futuro equitativo y sostenible. 
+Conclusión: 
+La ciencia y la tecnología han transformado nuestra forma de aprender, 
+trabajar y relacionarnos, creando un mundo más interconectado y 
+emocionante. Los avances tecnológicos en la educación y la economía 
+ofrecen oportunidades emocionantes, pero la disparidad en el acceso 
+puede ampliar la brecha educativa. 
+En el ámbito político, los gobiernos han adoptado la tecnología para 
+mejorar la eficiencia y transparencia. Sin embargo, se necesitan más 
+programas de capacitación para educadores y estrategias que 
+maximicen el potencial de la tecnología en el aprendizaje. 
+Aunque la ciencia y la tecnología han mejorado nuestra calidad de 
+vida, la brecha digital entre países puede profundizar las desigualdades 
+sociales y económicas. Los desafíos éticos y laborales son evidentes, 
+exigiendo una adaptación constante de habilidades en un mercado 
+laboral cambiante. 
+En resumen, la ciencia y la tecnología ofrecen beneficios emocionantes 
+pero también desafíos cruciales. Superar estas barreras éticas, cerrar 
+la brecha digital y adaptarnos a los cambios laborales es crucial para 
+un desarrollo justo y sostenible. Se necesita una acción colectiva y 
+políticas inclusivas para aprovechar al máximo el potencial de la 
+tecnología en beneficio de toda la humanidad. 
+En cuestiones académicas, la búsqueda, análisis y síntesis de 
+información sirve como un preámbulo para futuras investigaciones, la 
+materia de Entorno nos permitió redescubrir y explorar un panorama 
+más amplio del tema, desde distintas perspectivas y viéndolo desde 
+una posición socioeconómica; indudablemente nos brindó una 
+capacidad útil para la cuestión de Proyecto Aula. 
