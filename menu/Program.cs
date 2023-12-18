@@ -18,7 +18,7 @@ namespace menu
             Console.ForegroundColor = ConsoleColor.DarkGreen;
             Console.Clear();
 
-            Console.CursorVisible = false; //Hace invisible el cursor de la consola
+            Console.CursorVisible = true; //Hace invisible el cursor de la consola
 
             //Escribe el nombre del programa (Hecho en figlet) y la licencia proporcionada por Github
             try
@@ -57,12 +57,23 @@ namespace menu
                     Thread.Sleep(25);
                     Console.WriteLine("       1: Investigacion general");
                     Thread.Sleep(25);
-                    Console.WriteLine("       2: Opcion 2");
+                    Console.WriteLine("       2: Herramientas de Programación");
                     Thread.Sleep(25);
-                    Console.WriteLine("       3: Salir del programa");
+                    Console.WriteLine("       3: Fisica I");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       4: Contabilidad I");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       5: Ingles III");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       6: Entorno Socioeconomico de México");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       7: Comunicacion Cientifica");
+                    Thread.Sleep(25);
+                    Console.WriteLine("       8: Salir del Programa");
                     opcion = int.Parse(Console.ReadLine());
 
                     //Las distintas opciones
+                    //En la parte "Console.Title" figura a que materia pertenece
                     switch (opcion)
                     {
                         case 1:
@@ -72,15 +83,16 @@ namespace menu
                             {
                                 line = File.ReadAllText("texto_general.txt");
                                 Console.WriteLine(line);
+                                
                             }
                             catch (Exception e)
                             {
                                 Console.WriteLine("Exeption: " + e.Message);
-                                Console.ReadKey();
-                                Console.Clear() ;
+                                
                             }
                             finally
                             {
+                                
                                 Console.ReadKey();
                                 Console.Clear();
                             }
@@ -88,18 +100,120 @@ namespace menu
                             break;
 
                         case 2:
+                            Console.Title = "Herramientas de Programacion";
                             Console.Clear ();
-                            Console.WriteLine("Escogiste la opcion 2");
+                            Console.WriteLine("Para la materia de Herramientas de Programacion se realizo el programa que estas ejecutando ahora mismo");
+                            Console.ReadKey();
+                            Console.Clear();
                             break;
 
                         case 3:
-                            Console.Clear ();
-                            Console.WriteLine("Has elegido salir del programa");
-                            Thread.Sleep (500);
+                            Console.Title = "Fisica I";
+                            Console.Clear();
+                            try
+                            {
+                                line = File.ReadAllText("fisica.txt");
+                                Console.WriteLine(line);
 
+                            }
+                            catch (Exception e)
+                            {
+                                Console.WriteLine("Exeption: " + e.Message);
+                                
+                            }
+                            finally
+                            {
+
+                                Console.ReadKey();
+                                Console.Clear();
+                            }
+                            break;
+
+                        case 4:
+                            Console.Title = "Contabilidad I";
+                            Console.Clear();
+                            try
+                            {
+                                line = File.ReadAllText("conta.txt");
+                                Console.WriteLine(line);
+
+                            }
+                            catch (Exception e)
+                            {
+                                Console.WriteLine("Exeption: " + e.Message);
+                                
+                            }
+                            finally
+                            {
+
+                                Console.ReadKey();
+                                Console.Clear();
+                            }
+                            break;
+
+                        case 5:
+                            Console.Title = "Ingles III";
+                            Console.Clear();
+                            Console.WriteLine("For English Class we did an 80´s infografy");
+                            Console.ReadKey();
+                            Console.Clear();
+                            break;
+
+                        case 6:
+                            Console.Title = "ESM";
+                            Console.Clear();
+                            try
+                            {
+                                line = File.ReadAllText("entorno.txt");
+                                Console.WriteLine(line);
+
+                            }
+                            catch (Exception e)
+                            {
+                                Console.WriteLine("Exeption: " + e.Message);
+                                
+                            }
+                            finally
+                            {
+
+                                Console.ReadKey();
+                                Console.Clear();
+                            }
+                            break;
+
+                        case 7:
+                            Console.Title = "Comunicacion Cientifica";
+                            Console.Clear();
+                            try
+                            {
+                                line = File.ReadAllText("comunicacion.txt");
+                                Console.WriteLine(line);
+
+                            }
+                            catch (Exception e)
+                            {
+                                Console.WriteLine("Exeption: " + e.Message);
+                               
+                                
+                            }
+                            finally
+                            {
+
+                                Console.ReadKey();
+                                Console.Clear();
+                            }
+                            break;
+
+                        //Opcion para salir del programa
+                        case 8:
+                            Console.Clear();
+                            Thread.Sleep(500);
+                            Console.WriteLine("Saliendo del programa...");
+                            Thread.Sleep(500);
                             endProgram = false;
                             break;
 
+                        //Opcion por si no se escribe un numero del 1 al 8 
                         default:
                             Console.Clear();
                             Console.WriteLine("No escribiste un numero dentro del rango");
@@ -115,13 +229,7 @@ namespace menu
                     Thread.Sleep(300);
                     Console.Clear();
                 }
-
-
-
             }
-
-
-
         }
     }
 }
