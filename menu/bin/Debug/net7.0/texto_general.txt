@@ -5,4 +5,233 @@
 Grupo: 3IM12
 Nivel: Tercer Semestre 
 Especialidad: Informatica 
-Coordinadora: Elizabeth Eugenia Osorio Villaseñor 
+Coordinadora: Elizabeth Eugenia Osorio Villaseñor
+Unidad de Aprendizaje: Quimica I
+Equipo: 8
+Integrantes:
+	-Leyva Marin Sibela Esther
+	-Pérez Morales Luis Raúl
+Fecha de elaboración: 10 de Diciembre, 2023 
+Ciclo:2024/1
+
+
+Introducción
+¿Quién no ha usado YouTube y le han aparecido “10 cosas que no sabías de Mickey Mouse”? ¿quién no ha compartido las típicas cadenas de WhatsApp?, o ¿a quién no le ha llegado de Facebook un comentario de odio sobre algo que publicaste? Pues bien es muy seguro que digas sí a todo, pero ¿cómo es posible que a más usuarios les haya pasado? Hay una respuesta para eso y es: tecnología, comunicación y globalización. 
+
+Metodología
+Con la ayuda de otros estudios relacionados al tema se hará redacción de un documento informativo donde se hablara y definirá sobre el uso e impacto de las Tecnologías de Información y Comunicación, su clasificación dentro de la sociedad y el aula, el cambio radical que ha habido en las formas de enseñar, aprender y socializar, así como entender y resolver los distintos obstáculos que presenta la implementación de las nuevas Tecnologías en el aula.
+
+Objetivos
+General: estudiar el impacto de las TIC en los métodos de enseñanza y aprendizaje.
+Específicos:
+Informar a la población el concepto de TIC, tipos, ejemplos, ventajas y desventajas. 
+Dar a conocer el impacto que han tenido en la educación. 
+Explicar los requerimientos que necesita el docente, alumno y el aula, para mejorar el aprendizaje. 
+Buscar la concientización de la población para hacer un buen uso de las TIC, usando para ello las “netiquetas”. 
+Explicar una corriente pedagógica y su uso erróneo: el Constructivismo. 
+
+
+Todos somos testigos sobre cómo las TIC han dado lugar a importantes cambios no solo en la educación, sino también en la sociedad en general, con el evidente mayor acceso a la información y el cambio en la forma de enseñar y aprender.
+Hay una herramienta que nos permite estudiar eso: las Tecnologías de la Información y Comunicación o las famosas TIC. Primero comencemos a pronunciarlas y escribirlas bien, no se les dice TICS, TIC 'S, tic’s ó tic, se les dice TIC. Ahora, para comprenderlas mejor, se va a separar cada palabra de la sigla: 
+
+DEFINICIÓN
+Tecnología: herramientas que solucionan un problema o mejoran nuestra calidad de vida. Ejemplo: 
+Disquete.
+Radio.
+Televisión.
+Celular.
+Dron. 
+
+Información: en latín se le dice “informare” y se refiere a “dar o formar una idea”; para poder lograr esto, se necesitan dos cosas: datos y conocimiento. 
+	* Datos: es lo que se necesita para formar una idea. 
+	* Conocimiento: es la ganancia que se obtiene por investigar, resumir o redactar. 
+
+Datos → Información → Conocimiento 
+
+En las TIC, este término se enfoca más en la forma innovadora en la que se transfieren los datos: vídeos, imágenes, audios, textos, etc. 
+
+Comunicación: en términos generales es una interacción social entre un emisor (envía el mensaje) y un receptor (recibe el mensaje), con las TIC se refiere a las herramientas que se utilizan para lograr la interacción pero está vez de forma virtual; al receptor se le conoce como usuario. 
+
+Por lo tanto, las TIC son herramientas innovadoras que permiten comunicar e informar al usuario a través de una tecnología (tablets, computadoras, celulares, entre otras); además de esto las TIC tienen más alcance a otras funciones, pero reciben otro nombre. 
+
+ÁMBITOS EN LAS QUE SE UTILIZAN: 
+
+Se puede utilizar de en diversos ámbitos como para el trabajo, el entretenimiento, la
+educación, salud, economía, política, entre muchas otras. Pero, las principales son:
+por trabajo, educación y salud.
+
+*Trabajo: se utiliza para hacer videoconferencias, facilita la comunicación entre
+trabajadores y gerentes, se puede promocionar un producto, trabajo o a la propia empresa, da más oportunidades de trabajo con los famosos trabajos en línea o teletrabajos, entre muchos otros beneficios.
+
+*Educación: facilita la búsqueda de datos para una investigación o para tareas en general, facilita la comunicación entre compañeros, se utiliza para mejorar el rendimiento
+académico con plataformas educativas que en la mayoría de los casos ya son dinámicas, se
+tiene más acceso a libros en su forma digital, etc.
+
+*Salud: promoción de campañas de vacunación o de un registro en general, facilita la gestión de trámites. 
+
+CLASIFICACIÓN
+Como se mencionó, las TIC son más de uso general, es decir, solo informan y comunican, pero al ser de gran magnitud, tienen más divisiones pero con diferentes nombres: 
+
+TAC:
+Tecnologías del Aprendizaje y el Conocimiento, son herramientas enfocadas en lo educativo; una de sus cualidades es que facilita la interacción entre el profesor y la tecnología, alumno con la tecnología y profesor y alumno, aparte son más dinámicas y gratuitas. Como ejemplo se tiene Google Classroom, Microsoft Teams, etc. 
+
+TEP:
+Tecnologías del Empoderamiento y la Participación, se refiere a aquellas herramientas que fomentan una inclusión y participación social para promover tendencias sin la necesidad de salir de casa, es decir, con ellas se promueve una democracia digital para apoyar buenas causas. Por ejemplo: Adobe Connect, Webex, Zoom, Microsoft Teams, entre otras. 
+
+TRIC:
+Esté es un nuevo término que significa Tecnologías de la Relación, la Información y la Comunicación, estas herramientas según varios autores, pretenden sustituir a las TIC, pues éstas tienen las mismas funciones que las TIC pero con la diferencia de que hay reglas a seguir, se dan a conocer los riesgos y se pone un nuevo enfoque en la educación y la comunicación (educomunicación) pues se cuestiona si los modelos actuales de enseñanza colaboran con el aprendizaje de los alumnos; otros autores solo señalan que estas herramientas sirven como uso preventivo para cualquier riesgo, de ahí el porqué de la letra “R”, pero solo serían una parte más de las TIC. 
+
+Con está información podemos afirmar lo siguiente, una TAC, TEP o TRIC pueden ser una TIC, pues son variantes de ellas, pero además pueden ser la otra es decir, una TAC puede ser una TEP, una TRIC una TAC, y así sucesivamente, todo esto dependerá del uso que se le busque dar y el enfoque que queramos para la enseñanza. 
+
+¿CUÁL ME CONVIENE? 
+Bien, como se redactó, nuestro propósito va enfocado en lo educativo, entonces actualmente ya no nos podemos preguntar si la tecnología debe de ser implementada en las escuelas y en casa, porque ya lo está, el enfoque que hay que dar es ¿cuál nos conviene más para nuestro aprendizaje? y criticar el uso actual que se le está dando. 
+
+Influencia de las TIC en la forma de enseñar
+Como ya se ha mencionado con anterioridad, las TIC nos acercan más al conocimiento, reduciendo a una búsqueda cualquier duda que tenga cualquier persona. Se preguntaran ¿Esto en que se relaciona a la forma de enseñar? Bueno esto se contesta de una forma muy sencilla:
+El que la información se encuentre tan a la mano hace que la interacción alumno-docente sea menos estrecha, donde ya no se requiere directamente del docente para que el propio alumno forje sus conocimientos.
+A esta forma de enseñar se le conoce (erróneamente) dentro del ámbito pedagógico como constructivismo.
+
+Pero ¿Que es en sí el constructivismo?
+“El constructivismo, en esencia, plantea que el conocimiento no es el resultado de una mera copia de la realidad preexistente, sino de un proceso dinámico e interactivo a través del cual la información externa es interpretada y reinterpretada por la mente. En este proceso la mente va construyendo progresivamente modelos explicativos, cada vez más complejos y potentes, de manera que conocemos la realidad a través de los modelos que construimos para explicarla” (Serrano González, 2011).
+Con esto podemos decir que el constructivismo no es más que el proceso mental donde un individuo forma su propio modelo de la realidad donde vive, sin copiar la percepción de esta misma por otras personas.
+
+¿Y en el ámbito académico? 
+A esta corriente pedagógica se le ha dado un concepto erróneo, el cual plantea que se deje en libre albedrío a los alumnos para que aprendan por su propia cuenta con poca o nula intervención por parte del docente. Hoy en día el mal uso de las TIC fomentan aún más esta idea, dejando de lado el trabajo del profesor, provocando no solo una barrera u obstáculo en su carrera, sino también causando problemas en la forma de aprender de los alumnos, ya que al no tener un guía muchos de ellos no son capaces de aprender por cuenta propia, esto debido a sus distintos estilos de aprendizaje y la adaptabilidad de estos dentro de las TIC.
+
+El concepto idealmente plantea que el docente sea en lugar de la fuente del conocimiento de los alumnos, el guia que les ayude a forjar ideas, conceptos y conocimientos, donde ya no solo el alumno es el que aprende, sino también el docente al convivir con nuevas formas de relacionar distintos conocimientos o al menos distintas formas de concebirlos, ya sea observando, leyendo, interactuando o escuchando, según sea la forma en que aprenda cada alumno. 
+
+Aprendizaje
+¿Qué se requiere para aprender? Es una pregunta muy curiosa, y que depende de varios factores como la motivación de docentes y estudiantes, los hábitos de estudio, la competencia sana, la sociabilidad, el nivel de los profesores en cuanto a su enseñanza, y por supuesto: la forma en la que aprende cada alumno. 
+
+No todos los alumnos aprenden de una misma forma, pues esto dependerá de las habilidades y la personalidad que tenga, pero ¿por qué se menciona esto? Porque no todos somos aptos para usar las mismas TIC, y no porque no estemos capacitados, sino porque no es nuestra forma de aprender, comparando no podemos ser un círculo y entrar en un cuadrado, porque al entrar habrá ciertos vacíos, estos vacíos son lagunas de lo que no hemos aprendido y eso es debido a múltiples factores. 
+
+Un país en vías de desarrollo como México, necesita de la capacitación docente para un buen uso de las TIC, pues hasta la fecha solo se ha tratado con la enseñanza tradicional, aquella en la que el alumno solo escucha, copia y no analiza su contenido, más no con otro tipo de enseñanzas para los alumnos de estilos de aprendizaje diferentes. 
+
+Ejemplos
+Dentro de las TIC como ya se mencionó anteriormente anteriormente, existen de distintos tipos y para propósitos diferentes, esto dependiendo el uso que les demos, a continuación se mencionan los más usados en un ámbito orientado a la orientación:
+
+Buscadores Web: ya sea Google, Bing, DuckDuckGo o cualquier otro, estas son las herramientas  que más rápido nos llevan no solo a la información, también nos conectan con el resto de herramientas y al resto de personas en el mundo. 
+Google Classroom: existen distintas copias o aplicaciones similares, pero google classroom es la más completa de estas, permite no solo la interacción docente-alumno, sino también la gestión de tareas, conexiones con el resto de servicios de google que también son herramientas para la educación.
+Aplicaciones de videoconferencias: los ejemplos más cercanos que tenemos son Zoom y Google Meet, que permiten realizar llamadas de video, pizarras online e interactuar de forma más directa no solo con el profesor, sino también con otros alumnos.
+Aplicaciones de Mensajería: Whatsapp, Telegram, Discord, etc., permiten la comunicación textual entre profesores y alumnos para organizar clases o grupos, tareas, dar avisos, etc. También incluyen servicios de llamadas y videollamadas  
+Editores de Texto: entre los más usados se encuentran Word, Google Docs e incluso el Bloc de notas, sirven para realizar trabajos escritos a computadora, ya sean investigaciones, reportes de prácticas, constancias, etc.
+Creación de Presentaciones: Powerpoint, Google Slides, Prezi, o incluso Canva son ejemplos de aplicaciones para crear presentaciones, ya sea material de apoyo del docente para sus clases o meras presentaciones de algún alumno
+
+Internet 
+Algo en común que tienen todas las TIC mencionadas con anterioridad son que provienen de internet, donde también existen foros de discusión, y las famosas redes sociales, en estos lugares del internet debemos tener extremo cuidado con la información que obtenemos, ya que esta puede ser falsa, manipulada o malintencionada.
+¿Porque la gente publicaría ese tipo de información? 
+El internet nos provee de algo que causa que la gente sea distinta adentro y afuera de esta red, se llama anonimato, que crea la falsa idea que no hay consecuencias ni repercusiones acerca de lo que se hace o dice en esta inmensa red de información y comunicación.
+
+Netiquetas
+Para resolver esto existen las netiquetas, que no son más que una serie de reglas y normativas que hacen idealmente mejor nuestra convivencia con el resto de personas en el internet basadas en el respeto a los demás. Algunos de estas reglas son:
+1. Respeto: trata a los demás de la manera en la que te gustaría que te traten, eso también incluye que debes de medir tus palabras y ser amable.
+2. Empatiza: compórtate como en la vida real, recuerda que interaccionas con otro ser humano.
+3. Conoce y respeta las normas de cualquier sitio: debes de conocer en donde te
+registras, que haces y las normas en las que se rige.
+4. Respeta el tiempo y los horarios de sueño de los demás: no todos estarán
+disponibles a la hora que desees; no es lo mismo una interacción real a una virtual, cada
+quien tiene una vida.
+5. Escritura: sé claro, coherente y educado con la información que escribas, para
+evitar malentendidos, tampoco insultes, es de mal agrado.
+6. Comparte tu conocimiento.
+7. Se prudente al opinar.
+8. Respeta y cuida tu privacidad.
+9. NO abuses de tus ventajas.
+10. Perdona los errores de otros: no seas arrogante o hiriente.
+Y, además se tienen algunos consejos: 
+Pide permiso antes de subir una foto o un vídeo. Pregunta a las personas aludidas qué información puedes publicar de ellas y asegúrate de que no les importa.
+Ayuda a crear un ambiente agradable. En tus intervenciones sé amable, educado y respetuoso con los demás.
+Respeta la privacidad de otras personas. No difundas en público o en otros grupos aquella información que un usuario comparte contigo o con un grupo en concreto. Cuida la privacidad de las personas como quisieras que cuidasen la tuya.
+Conserva una actitud pacífica. Si algo o alguien te molesta en la red social no actúes de forma agresiva. Es posible que busquen la provocación o el engaño y si reaccionas mal habrán conseguido su propósito. A veces puede tratarse de errores o acciones no intencionadas.
+Sé responsable. Recuerda que las redes sociales no son un juego. Eres responsable de todo lo que haces en ellas. 
+
+Ventajas de las TIC
+Como se puede observar, las TIC han influenciado toda nuestra vida, pues incluso después
+de la pandemia se siguen utilizando, y eso se debe a múltiples factores, como que son más
+fáciles, algunas son gratuitas, permiten una interacción más dinámica entre el estudiante y el
+aprendizaje, son más fáciles de encontrar y todo el mundo está repleto de ellas, incluso ya no
+se pueden excluir las TIC de la educación, pues ya son parte de las nuevas generaciones,
+pero que tantas ventajas y desventajas se tiene de esto, bien pues entre las ventajas se
+encuentran las siguientes:
+Para los estudiantes:
+Mejora y facilita la comunicación entre alumnos.
+Mayor y fácil acceso a la información.
+Pueden aprender de forma independiente y a su gusto con cursos online.
+Ahorro de tiempo en la realización de actividades.
+Hay una interacción global.
+Sirve para comunicarse en caso de emergencia.
+Para los docentes:
+Se tiene una comunicación más fluida con los estudiantes.
+Motiva a innovar las formas de enseñanza.
+Mayor facilidad en la comunicación entre profesores
+Permite un mayor acceso a la información.
+Facilitan la evaluación y el control.
+Hay una actualización profesional (se mejoran los conocimientos que se tenían).
+Para los padres o tutores:
+Apoyan el aprendizaje de sus hijos.
+Aprenden el uso de diversas TIC
+Comunicación al momento sin importar la distancia.
+Ocio familiar.
+
+Desventajas de las TIC
+Ya se mencionó como idealmente deben funcionar las TIC, pero, la realidad es distinta, al usar estas tecnologías estamos expuestos a distintas desventajas o riesgos que pueden afectar nuestra vida diaria:
+- Distracción. Siendo estudiante, docente o padre de familia, es probable que se distraiga con
+otras aplicaciones, y deje lo que tiene más importancia ya sea una actividad, el trabajo o deje
+de poner atención en clase.
+- Copiar. El transcribir tal cual la información sin algún tipo de razonamiento, provoca un
+aprendizaje superficial que afectará en el futuro la vida académica del estudiante.
+-Disminución de habilidades de lecto – escritura.
+- Adicción. El uso constante sin limitaciones de redes sociales, produce una dependencia
+para quien lo hace y posteriormente problemas de salud física, mental o incluso de sueño.
+- Aislamiento social, escolar y/o familiar.
+
+-El uso indebido de tus datos personales puede derivar en una falta de privacidad, ciberacoso o cyberbullying.
+-Actitudes como el racismo, la homofobia, la violencia, etc. Pueden dañar tu salud mental y provocar distintas enfermedades.
+El uso de una TIC en la educación, no solo dependerá de las reglas que tengamos que
+seguir o conocer en qué TIC estamos navegando, también hay otros factores que influyen,
+para eso debemos de tener en cuenta la siguiente pregunta:
+
+¿Qué se requiere por parte del estudiante para utilizarlas?
+Competencias digitales sólidas, esto implica que deben estar familiarizados con el uso de herramientas tecnológicas, como computadoras, dispositivos móviles, aplicaciones, plataformas en línea y recursos digitales. 
+Requiere un nuevo tipo de alumno (y docente), donde este ya no solo es el receptor de la información.
+ Deben estar dispuestos a aprender y a adaptarse a nuevas tecnologías, ya que estas cambian constantemente.
+Entonces, para usar correctamente una TIC debemos de estar familiarizados con dispositivos
+electrónicos, conocer en dónde estamos navegando, qué necesitamos de eso y las reglas que lo rigen, por ùltimo en caso de cambios, debemos de estar dispuestos a aprender y
+adaptarnos a lo renovado. Cómo se llegó a comentar, la pandemia hizo múltiples cambios y en ellos están, el favoritismo de ciertas TIC de los docentes y los estudiantes, en el siguiente listado se encuentra lo más usado de los docentes:
+
+TIC utilizados por el Docente
+Plataformas educativas: como Google Classroom, que permite la gestión de contenidos, comunicación con los estudiantes y la realización de actividades y evaluación en línea. 
+Presentaciones digitales: como Prezi, Haiku Deck, Powerpoint, etc. Permiten la creación de presentaciones interactivas y atractivas para los estudiantes. 
+Herramientas de video: como Youtube o Vimeo. Que permiten la creación y el uso de videos educativos para complementar la enseñanza. 
+Juegos educativos: Como Kahoot o Quizziz. Que permiten la realización de actividades lúdicas y educativas para los estudiantes. 
+
+TIC utilizados por el estudiante
+Los estudiantes pueden utilizar diversas TIC para mejorar su aprendizaje y participación en el
+proceso educativo. Algunos ejemplos pueden ser:
+Acceso a la información: Internet permite a los estudiantes acceder a la información de manera rápida y sencilla, conectarse con otros estudiantes y docentes de todo el mundo, participar en foros y debates en línea, y acceder a recursos educativos en línea.
+Plataformas educativas: como Google Classroom, que permite a los estudiantes gestionar sus tareas, comunicarse con sus docentes y compartir contenidos con otros estudiantes.
+Herramientas de presentaciones: como Powerpoint o Prezi, que permiten a los estudiantes crear presentaciones interactivas y atractivas para sus proyectos y actividades.
+Herramientas de video: como YouTube y Vimeo, que permiten a los estudiantes ver videos educativos y de interés, así como crear y compartir sus propios videos.
+Mesas interactivas: equipadas con monitores y conectividad, permiten a los estudiantes trabajar en grupo y acceder a información digital en tiempo real.
+Libros digitales: permiten a los estudiantes leer y anotar en línea, así como acceder a recursos educativos digitales
+Y así como se comentó el impacto de las TIC debemos de aclarar que no solo afectó la
+pandemia, sino también el después de ella, pues respecto a la educaciòn se usaron las
+siguientes TIC:
+
+TIC utilizados en el salón de clases
+Para poder implementar las TIC en el aula es necesario informarse y conocer las herramientas
+que nos brindan las nuevas tecnologías, así como definir las necesidades de los alumnos y los
+objetivos curriculares. Solo así será posible crear un entorno de aprendizaje flexible e
+implementar las estrategias y herramientas necesarias para que desarrollen todas sus
+capacidades. Algunos ejemplos de recursos TIC son los siguientes:
+Recursos visuales como videos, imágenes o documentos PDF que puedan servir
+como un más a más para el alumnado poder entender aún mejor el temario.
+
+LMS: se trata de herramientas educativas diseñadas para facilitar la interacción y organización del grupo clase. Google Classroom, Microsoft Teams o Moodle son algunas de las LMS más importantes en el sector de la educación. Permiten mantener el trabajo a distancia, realizar tareas, entregas, etc.
+
+Plataformas para hacer videollamadas y mantener la “presencialidad” en clase. De este modo podremos mantener el contacto con el alumnado, mantener un contacto más estrecho, etc. 
+
+Conclusiones 
+Podemos concluir diversas cosas, la primera es que las TIC, son herramientas innovadoras de mucho alcance, pues han llegado al punto de atravesar fronteras y edades; el segundo punto es que no son buenas ni malas, está opinión dependerá del uso que le de el usuario y que tantas reglas no siga; y tercero el impacto que ha tenido en cuanto a la educación es muy grande, debido a que, facilita el acceso a la educación y da más opciones para aprender, pero el usarlas no nos asegura que vamos a aprender de forma eficaz, es por eso que no debemos de aprender o depender de las TIC, sino deben de ser solo un apoyo más para el objetivo que queramos alcanzar. En cuanto al Constructivismo, es un tema importante a abordar, porque es lo que sucede actualmente en la mayoría de las escuelas, el profesor deja su papel por completo, y deja solos a los alumnos, y eso no puede ser así, porque hay un deterioro educativo, es cierto que las TIC ya no se pueden excluir, pero el profesor puede tener el papel de guía para promover su uso sano y correcto. 
+
+En cuanto a Proyecto Aula, debemos de recordar que es un método de estrategia en donde el estudiante crea nuevos proyectos para solucionar un problema de la comunidad, pero para hacerlo necesita de un equipo con el que pueda contar, y para que pueda suceder esto, es decir, funcione de acuerdo a los objetivos, deben de existir ciertas habilidades sociales como la escucha activa, el reconocimiento de errores, la aceptación de ayuda, entre muchas otras más. En esta investigación no se llevaron totalmente a cabo estás habilidades, pues el equipo se tuvo que dividir por diferencias de pensamiento, pero en nuestro caso, pudimos trabajar en conjunto sin ningún inconveniente, pues nuestro objetivo es informar a la comunidad, no deteriorarla más. También nos gustó este proyecto porque hay una gran variedad de temas interesantes y de los que muy poco se habla, como las TIC y su relación con otras corrientes pedagógicas, aquí se mencionan mucho porque estas corrientes nos afectan indirectamente sobre el cómo aprendemos, y lo que se quiere es que se conozcan más, para ya no seguir con la educación tradicional, sino que haya un cambio en el aprendizaje, y el paìs pueda tener un cierto avance. Y para finalizar, el efecto que tuvimos personal y académicamente, es grande, no teníamos idea de cuanto habían repercutido las TIC y que esa repercusión también nos afectó, además de que hay reglas a seguir para tener una buena comunidad virtual; para que está investigación mejoré, se necesita llevarla a la práctica. 
