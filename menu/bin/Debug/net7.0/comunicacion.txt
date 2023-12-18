@@ -1,0 +1,195 @@
+		Instituto Politecnico Nacional
+	Centro de Estudios Cientificos y Tecnologicos No. 13
+              	   "Ricardo Flores Magon"
+
+Grupo: 3IM12
+Nivel: Tercer Semestre 
+Especialidad: Informatica 
+Coordinadora: Elizabeth Eugenia Osorio Villaseñor
+Unidad de Aprendizaje: Quimica I
+Equipo: 8
+Integrantes:
+	-Leyva Marin Sibela Esther
+	-Pérez Morales Luis Raúl
+Fecha de elaboración: 10 de Diciembre, 2023 
+Ciclo:2024/1
+
+GAMIFICACIÓN VS CONSTRUCTUVISMO: LA INFLUENCIA DE LAS TIC EN LA EDUCACIÓN ACTUAL EN EL CECyT 13
+
+INTRODUCCIÓN
+Todos sabemos que en pandemia, te aburría ese profesor al que no le entendías porque solo hablaba y no
+explicaba el tema, por lo que preferías dormir o jugar que estar sentado delante de un monitor escuchándolo,
+pero qué pasaba cuando te encontrabas con otro profesor más “cool” que ponía juegos didácticos, simuladores,
+exposiciones interactivas y hacía que disfrutarás la clase; pues bien, para que esto pasara, el profesor estudio y
+se adaptó a las nuevas tecnologías, estas tecnologías son las famosas TIC.
+
+JUSTIFICACIÓN METODOLÓGICA:
+Proyecto Aula es un método de estrategia en donde el estudiante crea nuevos proyectos para solucionar un
+problema de la comunidad; su importancia radica en las habilidades del trabajo colaborativo, la creación de
+investigaciones, y la solución del problema.
+
+JUSTIFICACIÓN TEÓRICA:
+Este tema busca mejorar la percepción que hay en la educación, como ha cambiado a través del uso de las TIC,
+y qué se puede hacer para mejorar los resultados del aprendizaje de los alumnos del CECyT 13, se escogió
+porque se observó las “lagunas” de aprendizaje que hay en la educación dentro del CECyT y porque se busca
+mejorar a la propia comunidad.
+
+JUSTIFICACIÓN PRÁCTICA:
+
+METODOLOGÍA.
+Con ayuda de otras investigaciones relacionadas al tema, la experiencia propia y observaciones en el CECyT 13
+“Ricardo Flores Magón”, se redactará una investigación dirigida a estudiantes y profesores, así también se
+definirán otros conceptos bastante desconocidos pero relevantes en la forma de enseñar y aprender, se hará
+
+comparación de dos ramas pedagógicas que se han identificado como las que más apoyo tienen sobre las TIC,
+esto girando entorno a las Tecnologías de la Información y la Comunicación (TIC).
+OBJETIVOS.
+GENERAL: estudiar el impacto de las TIC en los métodos de enseñanza y aprendizaje.
+ESPECÍFICOS:
+- Conocer los 3 principales estilos de aprendizaje dentro del CECyT 13
+- Dar a conocer la adaptación de las TIC en los estilos de aprendizaje.
+- Comparar los extremos de dos corrientes pedagógicas: gamificación y constructivismo.
+
+DESARROLLO
+En los últimos años ha habido un auge en cuanto a tecnología,pues hay nuevas herramientas que nos facilitan
+nuestra vida y cumplen nuestros deseos, pero a qué punto ha llegado para transformar hasta la educación.
+Bien estás herramientas transformadoras son denominadas TIC, y así es se escribe TIC, no TIC’S, tics ó TICS, esté
+término se refiere a las Tecnologías de la Información y la Comunicación, que tienen como objetivo comunicar e
+informar a la población.
+
+TIC. CONCEPTO.
+Para conocer mejor su significado, se dará más información sobre cada término que lo compone:
+Tecnología: se refiere a todo aquello artificial o creado por el hombre, su objetivo es satisfacer necesidades o
+deseos, y como consecuencia trae un avance consigo que permite la innovación.
+
+La tecnología no solo son aquellos celulares de última generación, las laptops o el Internet, sino también
+pueden ser la radio, la locomotora, las máquinas de escribir, e incluso la rueda, se le considera tecnología
+porque en su momento llegó a ayudar, y con su creación hubo un avance que permitió la creación o
+actualización de algo más innovador.
+Información: proveniente del latín “informare” que en español significa “dar una idea”, es el punto medio entre
+el proceso de datos y conocimiento, es decir, los datos son aquellos con los que podemos formar la idea, la
+información es la idea, y de lo que se obtiene se le conoce como conocimiento.
+Comunicación: es una interacción social o virtual; en el caso social o presencial es el intercambio de
+información entre un emisor y un receptor, en tanto que, en el virtual es lo mismo, con la diferencia de que al
+emisor y receptor se les conoce como usuarios, y su canal comunicativo es a través de una tecnología.
+
+VARIANTES DE LAS TIC
+Las TIC no solo van enfocadas a la comunicación de la información, sino tiene variantes, como las TEP, que su
+objetivo es concientizar a la sociedad para usar las TIC a favor de la comunidad, las TRIC, que a pesar que es un
+nuevo concepto, se refiere a las reglas y riesgos que hay al momento de usar las TIC, y las que tuvieron un
+crecimiento potencial durante la pandemia las TAC, que son las Tecnologías del Aprendizaje y el Conocimiento,
+orientadas a la facilitación de la educación, o sea, facilitan la interacción de un usuario con una TIC pero
+educativa.
+Cabe aclarar que las TAC, TEP, y TRIC pueden ser una TIC, y viceversa.
+Como ejemplo de TAC tenemos: Google Classroom, Microsoft Teams, Kahoot, etc.
+Para poder comprender mejor las TAC, se debe de conocer el concepto de aprendizaje.
+
+APRENDIZAJE. CONCEPTO.
+El aprendizaje es un proceso psicológico constante en donde el individuo adquiere una nueva experiencia o
+conocimiento para poder sobrevivir.
+Esté proceso se lleva estudiando desde siglos, y ha sido de gran interés para los psicólogos, porque permite
+conocer la forma en la que una persona cambia su conducta a través de una experiencia.
+
+ESTILOS DE APRENDIZAJE Y SU ADAPTABILIDAD CON LA TECNOLOGÍA.
+Así como cada TIC tiene un objetivo distinto según su variante, así también cada persona tiene preferencias en
+usar una u otra para el mismo objetivo, esto adecuándose a sus distintas formas de comprender y aprender,
+mismas que son prácticamente únicas entre individuos.
+Estas formas de aprender se les conoce como estilos de aprendizaje, los principales son 3: visual, kinestésico y
+auditivo; existen más, pero en está ocasión se trabajarán con los ya mencionados.
+Los estilos de aprendizaje son los métodos por los cuales una persona adquiere con mayor facilidad
+conocimiento y lo lleva a cabo, es decir, todos podemos aprender, sin embargo, hay ciertas formas en las que se
+nos facilita, y esto depende de cada persona, sus tipos de inteligencia, sus preferencias, sus habilidades, su
+contexto, etc.
+En el caso del estilo visual, se refiere a la facilidad de aprender observando ya sea con imágenes, texto, dibujos,
+vídeos, gráficas, exposiciones, diagramas, es decir, con todas las representaciones visuales.
+El estilo auditivo es la preferencia de procesar y comprender la información a través de sonidos, se utilizan
+audios, grabaciones, vídeos, conferencias, debates, todo recurso en donde se pueda escuchar.
+Y el estilo kinestésico va enfocado a los movimientos y sensaciones que se pueden desarrollar en un cierto
+entorno.
+
+Se ha de decir que está es solo una teoría, pues existen ciertos autores que la determinan como una farsa, pues
+no hay muchas pruebas que la avalen, aunque nadie destaca que los seres humanos tienen cierta facilidad a
+aprender de diversas formas.
+Otro punto importante a considerar, es que en está investigación se hicieron ciertas comparaciones a las
+observaciones que se hicieron en ciertos lugares dentro del CECyT y a los resultados de las entrevistas, se
+observó cierta diferencia en la facilidad de aprendizaje de algunas personas, pues en biblioteca, las personas
+entrevistadas, dejaban de hacer sus proyectos y observaban al entrevistador, pues en sus palabras se distrían
+con facilidad, mientras que estudiantes en las mismas condiciones pero en las canchas de frontón, solo ponían
+atención y contestaban de forma congruente sin distraerse, es decir, cada persona es diferente en cuanto
+habilidades, no todos pueden seguir el mismo sistema, pues no “encajan”, este fenómeno también dependia
+del sexo del entrevistado, su edad, su nivel académico y la carga de estrés que estaba teniendo en ese
+momento.
+
+CORRIENTES PEDAGÓGICAS.
+A esos sistemas donde no todos los estudiantes encajan, las nombraremos corrientes pedagógicas.
+¿Qué son las “Corrientes Pedagógicas”?
+Son teorías del pensamiento e investigación que permiten la comprensión de los aspectos pedagógicos en un
+contexto. Toda acción pedagógica tiene como misión la educación y la enseñanza.
+Estas dependen no solo del docente, sino también de las habilidades del estudiante, los estilos de aprendizaje,
+el contexto y las herramientas que se usan para enseñar y aprender.
+
+LUDIFICACIÓN Y CONSTRUCTUVISMO.
+En esta ocasión hablaremos de dos de estas: la Gamificación (Ludificación) y el Constructivismo.
+
+Para entender un poco mejor estas formas de enseñar y aprender tenemos que entender que la tecnología ha
+tenido un papel más protagónico a lo largo de los últimos años dentro y fuera del aula, haciendo que en la
+mayoría de ocasiones el profesor ya no sea el que provea el conocimiento.
+Pero entonces ¿Qué hace el profesor?
+Actualmente, como ya se dijo, existen más formas de enseñar aparte del método “Tradicional” donde el
+profesor dicta un tema, los alumnos repiten tantas veces ejemplos del tema para “ver si se les queda algún
+conocimiento”, claro está que con alumnos en específico funciona este método, más no con todo el alumnado,
+cosa que se busca actualmente.
+Entonces definiremos ambas corrientes pedagógicas:
+‣Gamificación. Se trata de la integración de actividades lúdicas para incentivar el aprendizaje a través de estas,
+estas no pueden ir relacionadas al tema a tratar más sin embargo deben generar la atracción en el alumno para
+que se interese en el tema.
+Uno de los problemas con esta es su no tan fácil integración en el aula, en la mayoría de las ocasiones todo el
+alumnado debe contar con equipos tecnológicos (ya sean celulares, tabletas o computadoras) con conexión a
+una red Wifi y en casos más específicos se requiere de pagar las licencias del uso de ciertos programas o
+servicios.
+
+No solo se trata de poner un “Kahoot!” en el proyector, también se requieren distintas interacciones Docente-
+Alumno, tomando en cuenta que no a todo el alumnado le interesara participar en cierta u otra actividad, el
+
+profesor también tiene que tomar en cuenta las distintas formas de aprender que tiene su grupo, en muchas
+ocasionas un cuestionario tipo concurso no será lo mejor para cierto tipo de alumnos.
+
+‣Constructivismo.- Se le ha dado un concepto erróneo, el cual plantea que se deje en libre albedrío a los
+alumnos para que aprendan por su propia cuenta con poca o nula intervención por parte del docente.
+
+Lo que en realidad plantea esta corriente pedagógica es que el profesor sea un guía más que la fuente de
+conocimiento, provea herramientas a sus alumnos, tomando en cuenta que no todos los alumnos usarán de la
+misma forma las distintas tecnologías a su alcance.
+Se comparan estas dos corrientes porque son el extremo en cuanto a la enseñanza, la primera utiliza el juego
+como aprendizaje y el docente está muy involucrado con el alumno, mientras que la segunda se centra en la
+independencia pero guiada.
+
+LUDIFICACIÓN Y CONSTRUCTUVISMO: SU RELACIÓN CON LAS TIC.
+En cuanto a las TIC, están tienen una muy fuerte relación, pues primero, en la actualidad ya no se pueden
+excluir de la educación, ya es algo que estará siempre presente, el segundo punto es que es la gamificación se
+utiliza para la interacción virtual y controlada entre alumno - juego, y obviamente la interacción con otros
+participantes. En el constructivismo, se usa para que el alumno busque por su propia cuenta la información con
+ayuda de navegadores, y en algunos casos el alumno tenga la libertad de escoger lo que quiere aprender.
+Cabe aclarar que actualmente el juego en la adolescencia está mal visto porque se considera infantil, pero es
+todo lo contrario, el objetivo de los juegos en esta etapa ya no solo se trata de disfrutar, sino también de
+razonar y encontrar una solución para poder ganar, sus beneficios son múltiples, entre ellos está que se
+mejoran las habilidades sociales, se mejoran las relaciones intrapersonales, se deja de buscar riesgos, y el
+alumno se presenta más animado y felíz.
+Recordar que, las TIC no tienen un papel bueno ni malo, todo dependerá del uso que el usuario le de.
+
+CONCLUSIÓN.
+A lo largo de esta investigación entendimos más a fondo que son las TIC, así también a cómo enunciarlas
+bien:TIC, no TIC ́s ni TICS. Se van a llamar de distinta forma dependiendo el uso que se le de: TEP, concientizar a
+la sociedad para usar las tecnologías en favor a la comunidad; TRIC, Conjunto de normas y reglas al usar las TIC;
+TAC, Son Tecnologías orientadas al aprendizaje y el conocimiento.
+Aprendimos más acerca de los estilos de aprendizaje, que a pesar de no haber investigaciones o estudios
+completos acerca de esto, se logra comprender que cada manera de aprender va a utilizar las Tecnologías de
+distinta forma y para distintos propósitos. Además, entendimos que hay obstáculos y por estos será necesario
+adaptarse a ciertas herramientas que no serán agradables a nuestro estilo de aprendizaje.
+Los profesores también tienen distintos obstáculos no solo con sus alumnos, sino también con las nuevas
+Tecnologías que poco a poco los desplazan como fuente del conocimiento, convirtiendo al docente en un guía
+que enseñará al alumno con actividades divertidas que fomenten el aprendizaje u orientando para que
+construya sus propios conocimientos. Ambos métodos de enseñanza son buenos para ser aplicados en el aula,
+es trabajo de ambas partes (docente y alumno) de adaptarse a cada una según sea el caso, tanto el respeto del
+alumno al profesor, como el profesor entendiendo un poco más a sus alumnos influyen en la facilidad que estas
+también se adapten a las tecnologías que hoy nos acompañan en nuestra vida diaria
