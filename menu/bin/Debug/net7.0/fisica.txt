@@ -1,0 +1,19 @@
+		Instituto Politecnico Nacional
+	Centro de Estudios Cientificos y Tecnologicos No. 13
+              	   "Ricardo Flores Magon"
+
+Grupo: 3IM12
+Nivel: Tercer Semestre 
+Especialidad: Informatica 
+Coordinadora: Elizabeth Eugenia Osorio Villaseñor
+Unidad de Aprendizaje: Fisica I
+Equipo: 8
+Integrantes:
+	-Leyva Marin Sibela Esther
+	-Pérez Morales Luis Raúl
+Fecha de elaboración: 10 de Diciembre, 2023 
+Ciclo:2024/1
+
+
+Se realizó una práctica relacionada al tema de fricción, en la cual se tenía el objetivo de comparar con una simulación y un caso real la forma más efectiva en la que los estudiantes entendían mejor el proceso y el resultado de un problema, además de las ventajas y desventajas que traía consigo. 
+
