@@ -1,5 +1,6 @@
 using System;
 using System.IO;
+using System.Diagnostics;
 
 namespace menu
 {
@@ -101,9 +102,10 @@ namespace menu
 
                         case 2:
                             Console.Title = "Herramientas de Programacion";
-                            Console.Clear ();
-                            Console.WriteLine("Para la materia de Herramientas de Programacion se realizo el programa que estas ejecutando ahora mismo");
-                            Console.ReadKey();
+                            Console.Title = "Herramientas de Programacion";
+                            Console.Clear();
+                            Process.Start("herr.bat");
+                            Thread.Sleep(250);
                             Console.Clear();
                             break;
 
